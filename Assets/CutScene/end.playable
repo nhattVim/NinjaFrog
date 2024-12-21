@@ -565,7 +565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 7400000, guid: cdf1227afa9900143a0457c998184a89, type: 2}
+  m_Clip: {fileID: 7400000, guid: 83c9b06396c3fef4292813a7803b0c56, type: 2}
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
@@ -781,7 +781,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: "idle ki\u1EC3u idle"
+    m_DisplayName: Player_idle
   - m_Version: 1
     m_Start: 12.8
     m_ClipIn: 0
@@ -850,7 +850,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: "run ki\u1EC3u run"
+    m_DisplayName: Player_run
   - m_Version: 1
     m_Start: 13.751999999999999
     m_ClipIn: 0
@@ -919,7 +919,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
     m_PreExtrapolationTime: 0
-    m_DisplayName: "idle ki\u1EC3u idle"
+    m_DisplayName: Player_idle
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 0
@@ -1336,7 +1336,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 7400000, guid: 4b6e0f4f395dd294f89033cc502d4543, type: 2}
+  m_Clip: {fileID: 7400000, guid: 2908df45266fc6844b706b8a0c66bb46, type: 2}
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
@@ -2360,7 +2360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: 7400000, guid: cdf1227afa9900143a0457c998184a89, type: 2}
+  m_Clip: {fileID: 7400000, guid: 83c9b06396c3fef4292813a7803b0c56, type: 2}
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
