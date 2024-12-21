@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: NewGame
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":214.4,"y":-20.79998},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"name":{"$content":"NewGame","$type":"System.String"}},"position":{"x":-190.0,"y":-158.0},"guid":"0f7a6e0e-c356-4b6a-87a1-3ad797a70d01","$version":"A","$type":"Unity.VisualScripting.BoltUnityEvent","$id":"9"},{"kind":"Application","defaultValues":{"name":{"$content":"newGame","$type":"System.String"}},"position":{"x":125.0,"y":-135.0},"guid":"0f379015-d53f-4d1f-a1a0-abb4e839aaf8","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-162.0,"y":7.0},"guid":"b8cb61cd-f816-4a15-b5bc-bbadda151ce1","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"09f954f6-e579-4cf2-a82a-21cc3dfba863","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"edff2671-da6e-470c-b098-e75d6f02c394","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

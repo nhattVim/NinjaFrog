@@ -1,0 +1,63 @@
+# This .gitignore file is designed to exclude temporary files, build results, 
+# and other unnecessary files created by Unity from your repository.
+
+# =============== Unity generated files =================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Exclude auto-generated JetBrains Rider project files
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+*.user
+
+# Exclude crash logs
+sysinfo.txt
+
+# Exclude user-specific Unity settings
+[Uu]ser[Ss]ettings/
+
+# =============== Textures =================
+# Thumbnails
+[Tt]humbnails/
+
+# =============== Cache files =================
+# GI Cache
+[Gg]i[Cc]ache/
+
+# =============== Build results =================
+[Bb]uilds/
+
+# =============== OS generated files =================
+.DS_Store
+Thumbs.db
+
+# =============== Other =================
+*.apk
+*.unitypackage
+*.psd.meta
+
+# =============== Version Control Systems =================
+.vscode/
+*.swp
+*.lock
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Visual Studio Code workspace history
+.history/
