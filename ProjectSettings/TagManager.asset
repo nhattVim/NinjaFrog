@@ -16,6 +16,7 @@ TagManager:
   - Item
   - BossSkill
   - Audio
+  - FlagCutscene
   layers:
   - Default
   - TransparentFX

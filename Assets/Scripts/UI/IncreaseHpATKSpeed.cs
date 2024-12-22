@@ -7,9 +7,9 @@ using Unity.VisualScripting;
 public class IncreaseHpATKSpeed : MonoBehaviour
 {
     public GameObject MenuManger;
-    public List<Image> hpList = new List<Image>();
-    public List<Image> atkList = new List<Image>();
-    public List<Image> speedList = new List<Image>();
+    private List<Image> hpList = new List<Image>();
+    private List<Image> atkList = new List<Image>();
+    private List<Image> speedList = new List<Image>();
     private int HpUpdate;
     private int AtkUpdate;
     private int SpeedUpdate;
